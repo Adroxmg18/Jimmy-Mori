@@ -1,0 +1,13 @@
+8. Cierre Individual
+PREGUNTA 1
+Antes de hoy guardaban su trabajo en Google Drive. Hoy lo hacen en GitHub. Explica con tus propias palabras qué ganaron al cambiar, más allá de "es más profesional". Se específico: ¿qué puedes hacer ahora que no podías antes?
+
+Antes en Google Driver solo guardábamos versiones de archivos, ahora en GitHub controlamos todo el proceso, ¿qué ganamos? pues, historial claro de cambios, trabajo en equipo sin conflictos, poder probar sin romper nada(Ramas), Revisiones antes de integrar cambios y saber quien hizo que y porqué, el cual pasamos de "guardar archivos" a "controlar un proyecto completo"
+
+
+PREGUNTA 2
+¿Qué fue lo más confuso del día? No digas "todo estuvo claro" porque eso es estadísticamente imposible. Identifica el momento exacto donde tu cabeza tuvo que detenerse a pensar, y explica cómo lo resolviste (o si todavía no lo resolviste).
+
+Un momento que me genero confusión es entre git add y git commit, porque pensé y dije ¿Por qué tendría que hacer 2 pasos para guardar algo, ósea??.
+pero la confusión parece en que ambos hacen lo mismo(guardar cambios) pero en la realidad no.
+la manera en que lo entendí fue que git add es solo una preseleccion de cambios y en ello sería como armar lo que vamos a guardar, y en git commit es donde realmente guardaremos el mensaje, cuando lo vemos asi, git nos obliga a pensar que queremos guardar antes de guardarlo.
